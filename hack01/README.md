@@ -4,6 +4,7 @@ Pedro Henrique Borges Monici - 10816732
 Matheus Luis Oliveira da Silva -
 Gabriel Victor Cardoso Fernandes -
 Rodrigo Lopes Assaf -
+Guilherme Machado Rios - 11222839
 
 
 ## Primeira Parte - A Função authorize():
