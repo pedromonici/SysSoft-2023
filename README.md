@@ -1,7 +1,7 @@
 # Nome da materia
 - Gabriel Victor - 11878296
 - Pedro Monici - 10816732
-- 
+- Rodrigo Lopes Assaf - 11795530
 
 ## Soluçao do exercicio 1
 
